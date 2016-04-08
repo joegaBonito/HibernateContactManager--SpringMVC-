@@ -4,7 +4,7 @@
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
 <html>
 <head>
-    <title>Spring 3 MVC Series - Contact Manager | viralpatel.net</title>
+    <title>Contact Manager </title>
 </head>
 <body>
 
